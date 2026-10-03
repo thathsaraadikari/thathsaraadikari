@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=200&section=header&text=Thathsara%20Adikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UCSC%20Undergraduate%20%7C%20Backend%20%26%20Android%20Developer&descAlignY=58&descSize=16" alt="Header" width="100%">
+  <img src="header.png" alt="Header" width="100%">
 </p>
 
 <!-- Typing animation -->
