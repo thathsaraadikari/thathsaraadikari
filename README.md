@@ -78,7 +78,7 @@ I'm an undergraduate at the **University of Colombo School of Computing (UCSC)**
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thathsaraadikari&bg_color=0d1117&color=2f81f7&line=2f81f7&point_color=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%">
+  <img src="activity-banner.jpg" alt="Activity banner" width="100%">
 </p>
 
 <!-- Contribution snake: only works after you add the snake.yml workflow (see instructions) -->
