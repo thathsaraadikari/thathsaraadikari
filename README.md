@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/thathsaraadikari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=45&lines=Information+Systems+Undergrad+%40+UCSC;Backend+Dev+with+PHP+%26+MySQL;C%2FC%2B%2B+%26+Embedded+Systems;Native+Android+Apps+with+Kotlin" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&height=65&lines=Information+Systems+Undergrad+%40+UCSC;Backend+Dev+with+PHP+%26+MySQL;C%2FC%2B%2B+%26+Embedded+Systems;Native+Android+Apps+with+Kotlin" alt="Typing animation">
   </a>
 </p>
 
