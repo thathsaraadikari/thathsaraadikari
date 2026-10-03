@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="header.png" alt="Header" width="100%">
+  <img src="header.jpg" alt="Header" width="100%">
 </p>
 
 <!-- Typing animation -->
